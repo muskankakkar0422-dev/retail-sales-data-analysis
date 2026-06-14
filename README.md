@@ -24,7 +24,7 @@ It demonstrates data cleaning, processing, visualization, and insights with Pivo
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
-##Insights
+## Insights
 
 - 📈 March recorded the highest sales
 - 👩 Women shop more — their share is 64%
@@ -37,7 +37,7 @@ It demonstrates data cleaning, processing, visualization, and insights with Pivo
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
-##Business Recommendations
+## Business Recommendations
 
 - **Seasonal Strategy** - Since March has the highest sales, Vrinda Store should plan seasonal promotions around this month.
 - **Age-Specific Marketing** -
@@ -52,10 +52,11 @@ It demonstrates data cleaning, processing, visualization, and insights with Pivo
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
-##Tools & Techniques
+## Tools & Techniques
 
 Tool Used
 - Microsoft Excel
+
 Technique Applied
     - Data Cleaning & Processing
     - Visualization (Bar charts, Pie charts, Slicers)
@@ -67,7 +68,7 @@ Technique Applied
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
-  ##Key Skills Demonstrated
+  ## Key Skills Demonstrated
   
   - Data Cleaning & Prepration
   - Exploratory Data Analysis (EDA)
@@ -77,13 +78,13 @@ Technique Applied
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
-##Final Deliverable
+## Final Deliverable
 
 An interactive Excel dashboard summarizing Vrinda Store’s 2022 sales performance.A complete case study demonstrating end‑to‑end data analysis: from raw dataset → cleaning → visualization → insights → recommendations 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
-##Business Impact
+## Business Impact
 
 This analysis provides Vrinda Store with a clear understanding of customer behavior, product performance, and sales channels.
 By focusing on women shoppers (64% share), strengthening Kurta & Set collections, optimizing inventory in top states, and leveraging Amazon as the leading channel, Vrinda Store can increase sales efficiency and customer satisfaction.
